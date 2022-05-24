@@ -1,0 +1,22 @@
+body {
+    
+    background-color: white;
+    color: black;
+    
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: rgb(236, 243, 238);
+  }
+ 
+  strong.dark-mode {
+
+        color:rgb(19, 107, 33)
+
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
